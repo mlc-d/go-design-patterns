@@ -1,3 +1,7 @@
+/*
+Singleton allows us to make sure that after a variable has been properly initialized,
+all new invocations won't re instantiate it, instead they'll receive the first value.
+*/
 package main
 
 import (

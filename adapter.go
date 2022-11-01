@@ -1,3 +1,9 @@
+/*
+Adapter allows us to use a general interface, and other types implementing it
+with slightly different functionalities can work normally and still take advantage
+of the abstraction.
+*/
+
 package main
 
 import "fmt"
